@@ -1,0 +1,6 @@
+[submodule "stylegan2-pytorch"]
+	path = stylegan2-pytorch
+	url = https://github.com/mycodeiscat/stylegan2-pytorch
+[submodule "stylegan2-ada-pytorch"]
+	path = stylegan2-ada-pytorch
+	url = https://github.com/dvschultz/stylegan2-ada-pytorch
